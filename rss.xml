@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[crosland_1]]></title>
+        <description><![CDATA[crosland_1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 02:19:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title1]]></title>
+            <description><![CDATA[<article><h1>Title1</h1><p>This is text that goes here.</p></article>]]></description>
+            <link>undefinedtitle1/index.html</link>
+            <guid isPermaLink="false">3061f96d-b5e7-4852-93bd-8cd4b18a37d8</guid>
+            <pubDate>Sun, 07 Feb 2016 02:19:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
